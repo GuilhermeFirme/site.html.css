@@ -1,0 +1,103 @@
+body
+{
+    margin: 0;
+    background-image: linear-gradient(#090a11, #212631);
+}
+.box
+{
+    margin: 0;
+    background-color: #090a11;
+    width: 100%;
+    position: fixed;
+    opacity: 0.95;
+        
+}
+.box_cabecalho
+{
+    display: flex;
+    justify-content: space-around;
+    margin: 0% 20% 0 10%;
+}
+.box_cabecalho-titulo
+{
+    color: #c3073f;
+}
+.box_cabecalho_nav_lista_ul
+{
+    display: flex;
+    list-style-type: none;
+    color: white;
+}
+.box_cabecalho_nav_lista-li
+{
+
+    color: #c5c6c7;
+    padding: 15px 30px 15px 30px;
+
+}
+.sessao_img
+{
+    width: 100%;
+}
+main
+{
+    margin: 5% 10% 0% 10%;
+}
+.sessao-conteudo-2
+{
+    display: flex;
+}
+.sessao_img-2
+{
+    justify-content: center;
+    width: 50%;
+}
+.box-nav-2
+{
+    margin: 50px 0px 0px 100px;
+}
+.oh2
+{
+    color: rgb(184, 16, 86);
+}
+.o-pp
+{
+    color: white;
+}
+.o-main-2
+{
+    margin: 5% 10% 0 10%;
+}
+.sessao-conteudo-3
+{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.sessao_img-3
+{
+    justify-content: center;
+    width: 50%;
+    margin: 5% 5% 0 10%;
+}
+.box-nav-3
+{
+    margin: 50px 0px 0px 100px;
+    text-align: center;
+}
+.oo-h2
+{
+    color: rgb(184, 16, 86);
+}
+.oo-pp
+{
+    color: white;
+}
+.p-utilização
+{
+    text-align: center;
+}
+.rodape
+{
+    display: flex;
+    justify-content: space-around;
+}
